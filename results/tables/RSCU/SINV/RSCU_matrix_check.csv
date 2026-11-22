@@ -1,0 +1,4 @@
+dataset,n_rows,n_codons,n_NA,n_long
+CDS,315,61,0,19215
+NSP,315,61,0,19215
+SP,315,61,0,19215
