@@ -1,0 +1,4 @@
+Region,Factor,n_used,df,SumSq,R2,F,P,Note
+CDS,GeoRegion (mosquito only),136,3,0.0026755333529754895,0.708,106.784,0.001,Mosquito-only subset; Unknown excluded; independent geographic test
+NSP,GeoRegion (mosquito only),136,3,0.0038989653479310914,0.731,119.731,0.001,Mosquito-only subset; Unknown excluded; independent geographic test
+SP,GeoRegion (mosquito only),136,3,0.006269738522237052,0.861,271.746,0.001,Mosquito-only subset; Unknown excluded; independent geographic test
