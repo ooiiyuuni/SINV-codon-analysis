@@ -1,0 +1,7 @@
+Region,Factor,n_used,df,SumSq,R2,F,P,Note
+CDS,HostGroup,315,5,0.0019958654892363705,0.311,27.909,0.001,All 315 sequences; Unknown kept as a group; host/geo collinear on USA/Rodent
+CDS,GeoRegion,315,5,0.004490315208457255,0.7,144.154,0.001,All 315 sequences; Unknown (n=2) kept as a group; host/geo collinear on USA/Rodent
+NSP,HostGroup,315,5,0.003116100333797947,0.336,31.236,0.001,All 315 sequences; Unknown kept as a group; host/geo collinear on USA/Rodent
+NSP,GeoRegion,315,5,0.006779736415711618,0.73,167.495,0.001,All 315 sequences; Unknown (n=2) kept as a group; host/geo collinear on USA/Rodent
+SP,HostGroup,315,5,0.005356586180045178,0.394,40.159,0.001,All 315 sequences; Unknown kept as a group; host/geo collinear on USA/Rodent
+SP,GeoRegion,315,5,0.011369118464907535,0.836,314.996,0.001,All 315 sequences; Unknown (n=2) kept as a group; host/geo collinear on USA/Rodent
